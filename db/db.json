@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "name": "talha",
+      "password": 123
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Howdy",
+      "email": "Howdy@test.com",
+      "rating": "4.1",
+      "address": "islamabad",
+      "id": 5
+    },
+    {
+      "name": "Cheezious",
+      "email": "Cheezious@test.com",
+      "rating": "4.7",
+      "address": "islamabad",
+      "id": 6
+    },
+    {
+      "name": "Ranchers",
+      "email": "Ranchers@test.com",
+      "rating": "4.0",
+      "address": "islamabad",
+      "id": 1
+    },
+    {
+      "name": "Savour",
+      "email": "Savour@test.com",
+      "rating": "3",
+      "address": "islamabad",
+      "id": 7
+    }
+  ]
+}
